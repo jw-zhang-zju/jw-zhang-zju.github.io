@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Professor Shanping Li](https://person.zju.
 
 You can find my CV here: [Junwei's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](jw.zhang@zju.edu.cn) / [Github](https://github.com/jw-zhang-zju) /
+[Github](https://github.com/jw-zhang-zju) /
 
 
 # Education
