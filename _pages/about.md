@@ -89,7 +89,7 @@ Invited Reviewer for IEEE Transactions on Software Engineering (TSE)
 
 [2] [How to write great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 
-[3] [Experimentation in Software Engineering]()
+[3] [Experimentation in Software Engineering](https://osslab-pku.org/resources/)
 
 [4] [Mining Massive Data Sets]()
 
