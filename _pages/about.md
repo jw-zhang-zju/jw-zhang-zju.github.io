@@ -16,6 +16,26 @@ You can find my CV here: [Junwei's Curriculum Vitae](../assets/Curriculum_Vitae.
 [Email](jw.zhang@zju.edu.cn) / [Github](https://github.com/jw-zhang-zju) /
 
 
+# Education
+
+Zhejiang University, Hangzhou, Zhejiang, China
+
+Ph.D. in Software Engineering  September 2021 - June 2025, Advisor: Professor Shanping Li, Associate Professor Lingfeng Bao, Assistant Professor Zhongxin Liu, Co-Advisor: Dr. Xin Xia and Associate Professor Xing Hu
+
+Chongqing University, Chongqing, China
+
+Master in Software Engineering  September 2018 - June 2021, Advisor: Professor Min Gao
+
+Chongqing University, Chongqing, China
+
+Bachelor in Software Engineering September 2014 - June 2018, Advisor: Professor Min Gao
+
+
+# Experiences
+
+Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisior: Dr. Xin Xia and Dr. Kui Liu
+
+
 # Publications
 
 ## 2025:
@@ -57,3 +77,13 @@ You can find my CV here: [Junwei's Curriculum Vitae](../assets/Curriculum_Vitae.
 ## 2019:
 
 [C1] 	<b>Junwei Zhang</b>, Min Gao, Junliang Yu, Xinyi Wang, Yuqi Song, Qingyu Xiong. "Nonlinear Transformation for Multiple Auxiliary Information in Music Recommendation". IJCNN 2019: 1-8
+
+# Professional Services
+
+## Journal Reviewer:
+
+Invited Reviewer for IEEE Transactions on Software Engineering (TSE)
+
+# Useful Links
+
+
