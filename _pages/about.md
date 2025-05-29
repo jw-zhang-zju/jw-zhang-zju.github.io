@@ -18,15 +18,15 @@ You can find my CV here: [Junwei's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 # Education
 
-Zhejiang University, Hangzhou, Zhejiang, China
+* *Zhejiang University, Hangzhou, Zhejiang, China*
 
 Ph.D. in Software Engineering  September 2021 - June 2025, Advisor: Professor Shanping Li, Associate Professor Lingfeng Bao, Assistant Professor Zhongxin Liu, Co-Advisor: Dr. Xin Xia and Associate Professor Xing Hu
 
-Chongqing University, Chongqing, China
+* *Chongqing University, Chongqing, China*
 
 Master in Software Engineering  September 2018 - June 2021, Advisor: Professor Min Gao
 
-Chongqing University, Chongqing, China
+* *Chongqing University, Chongqing, China*
 
 Bachelor in Software Engineering September 2014 - June 2018, Advisor: Professor Min Gao
 
