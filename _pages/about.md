@@ -85,5 +85,14 @@ Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisior: Dr. 
 Invited Reviewer for IEEE Transactions on Software Engineering (TSE)
 
 # Useful Links
+[1] [How to write clean code]()
+
+[2] [How to write great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
+
+[3] [Experimentation in Software Engineering]()
+
+[4] [Mining Massive Data Sets]()
+
+[5] [Deep Learning Reading List](https://github.com/robertsdionne/neural-network-papers)
 
 
