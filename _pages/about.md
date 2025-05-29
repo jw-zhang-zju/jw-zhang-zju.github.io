@@ -18,7 +18,7 @@ You can find my CV here: [Junwei's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 # Publications
 
-2025:
+## 2025:
 
 [J5] <b>Junwei Zhang</b>, Xing Hu, Shing-Chi Cheung, Xin Xia, Shanping Li. “Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback”. ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted as a Full Paper
 
@@ -28,7 +28,7 @@ You can find my CV here: [Junwei's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 [C6] Xuancheng Jin, Zhuang Liu, <b>Junwei Zhang</b>, Xing Hu*, Xin Xia. "TRACETS4J: A Traceable Unit Test Generation Dataset". 32nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025), Accepted as a Full Paper
 
-2024:
+## 2024:
 
 [C6] <b>Junwei Zhang</b>, Xing Hu*, Lingfeng Bao, Xin Xia, Shanping Li. "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization". International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Accepted as a Full Paper
 
@@ -36,15 +36,15 @@ You can find my CV here: [Junwei's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 [C4] <b>Junwei Zhang</b>, Zhongxin Liu, Lingfeng Bao, Zhenchang Xing, Xing Hu, Xin Xia. "Inside Bug Report Templates: An Empirical Study on Bug Report Templates in Open-Source Software". Internetware 2024
 
-2023:
+## 2023:
 
 [J4] <b>Junwei Zhang</b>, Zhongxin Liu, Xing Hu, Xin Xia, Shanping Li. "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code". IEEE Transactions on Software Engineering (TSE), Accepted as a Full Paper
 
-2022:
+## 2022:
 
 [J3] Zongwei Wang, Min Gao, Jundong Li, <b>Junwei Zhang</b>, Jiang Zhong. Gray-Box Shilling Attack: An Adversarial Learning Approach. ACM Trans. Intell. Syst. Technol. 13(5): 82:1-82:21 (2022)
 
-2021:
+## 2021:
 
 [J2] <b>Junwei Zhang</b>, Min Gao, Junliang Yu, Linda Yang, Zongwei Wang, Qingyu Xiong. "Path-based reasoning over heterogeneous networks for recommendation via bidirectional modeling". Neurocomputing 461: 438-449 (2021)
 
@@ -54,6 +54,6 @@ You can find my CV here: [Junwei's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 [C2] Meiling Chao, Min Gao, <b>Junwei Zhang</b>, Zongwei Wang, Quanwu Zhao, Yulin He. "PATR: A Novel Poisoning Attack Based on Triangle Relations Against Deep Learning-Based Recommender Systems". CollaborateCom (2) 2021: 435-450
 
-2019:
+## 2019:
 
 [C1] 	<b>Junwei Zhang</b>, Min Gao, Junliang Yu, Xinyi Wang, Yuqi Song, Qingyu Xiong. "Nonlinear Transformation for Multiple Auxiliary Information in Music Recommendation". IJCNN 2019: 1-8
