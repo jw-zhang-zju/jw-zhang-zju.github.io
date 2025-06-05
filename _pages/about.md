@@ -84,7 +84,7 @@ Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisior: Dr. 
 
 Invited Reviewer for IEEE Transactions on Software Engineering (TSE)
 
-Invited Reviewer for Empirical Software Engineering
+Invited Reviewer for Empirical Software Engineering (ESE)
 
 Invited Web Chair of FORGE 2026
 
