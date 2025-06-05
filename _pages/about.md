@@ -86,7 +86,7 @@ Invited Reviewer for IEEE Transactions on Software Engineering (TSE)
 
 Invited Reviewer for Empirical Software Engineering (ESE)
 
-Invited Web Chair of FORGE 2026
+Invited Web Chair of [FORGE 2026](https://conf.researchr.org/home/forge-2026)
 
 # Useful Links
 
