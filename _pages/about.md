@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year PhD student from [Zhejiang University](https://www.zju.edu.cn/). My research interest includes software engineering, such as AI for SE, mining software repositories, etc.
+I'm a full-time researcher in [Zhejiang University](https://www.zju.edu.cn/). My research interest includes software engineering, such as AI for SE, mining software repositories, etc.
 
 I am very fortunate to be advised by [Professor Shanping Li](https://person.zju.edu.cn/0087125), [Professor Xin Xia](https://xin-xia.github.io/),  [Associate Professor Lingfeng Bao](https://baolingfeng.github.io/), [Assistant Professor Zhongxin Liu](https://zhongxin-liu.github.io/), [Associate Professor Xing Hu](https://xing-hu.github.io/), Zhejiang University University. I was advised by [Professor Min Gao](https://scholar.google.com/citations?user=K8oe7sMAAAAJ&hl=zh-CN) from Chongqing University.
 
