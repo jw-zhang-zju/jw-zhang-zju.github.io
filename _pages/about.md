@@ -39,6 +39,7 @@ Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisior: Dr. 
 # Publications
 
 ## 2025:
+[C9] Yongqian Chen, <b>Junwei Zhang</b>, Xing Hu, Xin Xia. "Multi-Stage Generation of Rust Unit Tests with LLMs" 32nd Asia-Pacific Software Engineering Conference (APSEC 2025), Accepted as a Full Paper
 
 [J5] <b>Junwei Zhang</b>, Xing Hu, Shing-Chi Cheung, Xin Xia, Shanping Li. “Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback”. ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted as a Full Paper
 
