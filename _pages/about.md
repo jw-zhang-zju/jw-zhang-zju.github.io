@@ -29,35 +29,35 @@ Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisior: Dr. 
 
 # <i class="fa-solid fa-file"></i> Publications
 
-[C10] Yongqian Chen, <b>Junwei Zhang</b>, Xing Hu, Xin Xia. "Multi-Stage Generation of Rust Unit Tests with LLMs" 32nd Asia-Pacific Software Engineering Conference (APSEC 2025), Accepted as a Full Paper
+[C10] Yongqian Chen, <b>Junwei Zhang</b>, Xing Hu, Xin Xia. "Multi-Stage Generation of Rust Unit Tests with LLMs". 32nd Asia-Pacific Software Engineering Conference (APSEC 2025), Accepted as a Full Paper
 
-[J5] <b>Junwei Zhang</b>, Xing Hu, Shing-Chi Cheung, Xin Xia, Shanping Li. “Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback”. ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted as a Full Paper
+[J5] <b>Junwei Zhang</b>, Xing Hu, Shing-Chi Cheung, Xin Xia, Shanping Li. “Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback”. ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted as a Full Paper [ACM](https://dl.acm.org/doi/10.1145/3745765)
 
-[C9] <b>Junwei Zhang</b>, Xing Hu, Cuiyun Gao, Xin Xia, Shanping Li. “Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda”. SE 2030@FSE 2025. Accepted as a Full Paper
+[C9] <b>Junwei Zhang</b>, Xing Hu, Cuiyun Gao, Xin Xia, Shanping Li. “Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda”. SE 2030@FSE 2025. Accepted as a Full Paper 
 
-[C8] <b>Junwei Zhang</b>, Xing Hu*, Shan Gao, Xin Xia, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation". International Conference on the Foundations of Software Engineering (FSE 2025), Accepted as a Full Paper (ACM SIGSOFT Distinguished Paper Award 🏅)
+[C8] <b>Junwei Zhang</b>, Xing Hu*, Shan Gao, Xin Xia, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation". International Conference on the Foundations of Software Engineering (FSE 2025), Accepted as a Full Paper (ACM SIGSOFT Distinguished Paper Award 🏅) [PDF](https://arxiv.org/abs/2502.14212) [ACM](https://dl.acm.org/doi/10.1145/3715778)
 
-[C7] Xuancheng Jin, Zhuang Liu, <b>Junwei Zhang</b>, Xing Hu*, Xin Xia. "TRACETS4J: A Traceable Unit Test Generation Dataset". 32nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025), Accepted as a Full Paper
+[C7] Xuancheng Jin, Zhuang Liu, <b>Junwei Zhang</b>, Xing Hu*, Xin Xia. "TRACETS4J: A Traceable Unit Test Generation Dataset". 32nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025), Accepted as a Full Paper [IEEE](https://ieeexplore.ieee.org/document/10992478/)
 
-[C6] <b>Junwei Zhang</b>, Xing Hu*, Lingfeng Bao, Xin Xia, Shanping Li. "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization". International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Accepted as a Full Paper
+[C6] <b>Junwei Zhang</b>, Xing Hu*, Lingfeng Bao, Xin Xia, Shanping Li. "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization". International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Accepted as a Full Paper [IEEE](https://ieeexplore.ieee.org/document/10589870/)
 
-[C5] Zhongxin Liu, Zhijie Tang, <b>Junwei Zhang</b>, Xin Xia, Xiaohu Yang. "Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks". ICSE 2024: 151:1-151:13
+[C5] Zhongxin Liu, Zhijie Tang, <b>Junwei Zhang</b>, Xin Xia, Xiaohu Yang. "Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks". ICSE 2024: 151:1-151:13 [PDF](https://arxiv.org/abs/2402.00657) [ACM](https://dl.acm.org/doi/abs/10.1145/3597503.3639142)
 
-[C4] <b>Junwei Zhang</b>, Zhongxin Liu, Lingfeng Bao, Zhenchang Xing, Xing Hu, Xin Xia. "Inside Bug Report Templates: An Empirical Study on Bug Report Templates in Open-Source Software". Internetware 2024
+[C4] <b>Junwei Zhang</b>, Zhongxin Liu, Lingfeng Bao, Zhenchang Xing, Xing Hu, Xin Xia. "Inside Bug Report Templates: An Empirical Study on Bug Report Templates in Open-Source Software". Internetware 2024 [ACM](https://dl.acm.org/doi/10.1145/3671016.3671401)
 
-[J4] <b>Junwei Zhang</b>, Zhongxin Liu, Xing Hu, Xin Xia, Shanping Li. "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code". IEEE Transactions on Software Engineering (TSE), Accepted as a Full Paper
+[J4] <b>Junwei Zhang</b>, Zhongxin Liu, Xing Hu, Xin Xia, Shanping Li. "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code". IEEE Transactions on Software Engineering (TSE), Accepted as a Full Paper [IEEE](https://ieeexplore.ieee.org/document/10153647)
 
-[J3] Zongwei Wang, Min Gao, Jundong Li, <b>Junwei Zhang</b>, Jiang Zhong. Gray-Box Shilling Attack: An Adversarial Learning Approach. ACM Trans. Intell. Syst. Technol. 13(5): 82:1-82:21 (2022)
+[J3] Zongwei Wang, Min Gao, Jundong Li, <b>Junwei Zhang</b>, Jiang Zhong. Gray-Box Shilling Attack: An Adversarial Learning Approach. ACM Trans. Intell. Syst. Technol. 13(5): 82:1-82:21 (2022) [ACM](https://dl.acm.org/doi/10.1145/3512352)
 
-[J2] <b>Junwei Zhang</b>, Min Gao, Junliang Yu, Linda Yang, Zongwei Wang, Qingyu Xiong. "Path-based reasoning over heterogeneous networks for recommendation via bidirectional modeling". Neurocomputing 461: 438-449 (2021)
+[J2] <b>Junwei Zhang</b>, Min Gao, Junliang Yu, Linda Yang, Zongwei Wang, Qingyu Xiong. "Path-based reasoning over heterogeneous networks for recommendation via bidirectional modeling". Neurocomputing 461: 438-449 (2021) [PDF](https://arxiv.org/abs/2008.04185) [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0925231221010821)
 
-[J1] Min Gao, <b>Junwei Zhang</b>, Junliang Yu, Jundong Li, Junhao Wen, Qingyu Xiong. "Recommender systems based on generative adversarial networks: A problem-driven perspective". Information Science. 546: 1166-1185 (2021)
+[J1] Min Gao, <b>Junwei Zhang</b>, Junliang Yu, Jundong Li, Junhao Wen, Qingyu Xiong. "Recommender systems based on generative adversarial networks: A problem-driven perspective". Information Science. 546: 1166-1185 (2021) [PDF](https://arxiv.org/abs/2003.02474) [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0020025520309233)
 
-[C3] <b>Junwei Zhang</b>, Min Gao, Junliang Yu, Lei Guo, Jundong Li, Hongzhi Yin. "Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation". CIKM 2021: 2557-2567
+[C3] <b>Junwei Zhang</b>, Min Gao, Junliang Yu, Lei Guo, Jundong Li, Hongzhi Yin. "Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation". CIKM 2021: 2557-2567 [PDF](https://arxiv.org/abs/2109.04200) [ACM](https://dl.acm.org/doi/10.1145/3459637.3482426)
 
-[C2] Meiling Chao, Min Gao, <b>Junwei Zhang</b>, Zongwei Wang, Quanwu Zhao, Yulin He. "PATR: A Novel Poisoning Attack Based on Triangle Relations Against Deep Learning-Based Recommender Systems". CollaborateCom (2) 2021: 435-450
+[C2] Meiling Chao, Min Gao, <b>Junwei Zhang</b>, Zongwei Wang, Quanwu Zhao, Yulin He. "PATR: A Novel Poisoning Attack Based on Triangle Relations Against Deep Learning-Based Recommender Systems". CollaborateCom (2) 2021: 435-450 [Springer](https://link.springer.com/chapter/10.1007/978-3-030-92638-0_26)
 
-[C1] 	<b>Junwei Zhang</b>, Min Gao, Junliang Yu, Xinyi Wang, Yuqi Song, Qingyu Xiong. "Nonlinear Transformation for Multiple Auxiliary Information in Music Recommendation". IJCNN 2019: 1-8 
+[C1] 	<b>Junwei Zhang</b>, Min Gao, Junliang Yu, Xinyi Wang, Yuqi Song, Qingyu Xiong. "Nonlinear Transformation for Multiple Auxiliary Information in Music Recommendation". IJCNN 2019: 1-8 [IEEE](https://ieeexplore.ieee.org/document/8851992)
 
 
 # <i class="fa-solid fa-pen-to-square"></i> Professional Services
