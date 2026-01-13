@@ -90,7 +90,7 @@ Invited Reviewer for Automated Software Engineering Journal (ASEJ)
 
 Invited Reviewer for Journal of Software: Evolution and Process (JSME)
 
-Invited Web Chair of [FORGE 2026](https://conf.researchr.org/home/forge-2026)
+Invited Web Chair of [FORGE 2026](https://conf.researchr.org/home/forge-2026), Program Committee of [ICSME 2026 Research Papers Track](https://conf.researchr.org/committee/icsme-2026/icsme-2026-papers-program-committee)
 
 
 # <i class="fa-solid fa-tag"></i> Useful Links
