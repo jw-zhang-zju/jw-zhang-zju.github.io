@@ -31,11 +31,11 @@ Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisior: Dr. 
 
 **2026**
 
-[C11] Weichang Liu, <b>Junwei Zhang*</b>, Xiaochun Zhu, Bo Zhou. "HieraTest: Hierarchical Dependency–Driven Framework with Multi-Strategy Repair for LLM-based Unit Test Generation". 33rd International Conference on Software Analysis, Evolution and Reengineering (SANER 2026), Accepted as a Full Paper 
+[C11] Weichang Liu, <b>Junwei Zhang*</b>, Xiaochun Zhu, Bo Zhou. "HieraTest: Hierarchical Dependency–Driven Framework with Multi-Strategy Repair for LLM-based Unit Test Generation". 33rd International Conference on Software Analysis, Evolution and Reengineering (SANER 2026). Accepted as a Full Paper 
 
 **2025**
 
-[J6] Xing Hu, Feifei Niu*, Junkai Chen, Xin Zhou, <b>Junwei Zhang</b>, Junda He, Xin Xia, David Lo. "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks" In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted as a Full Paper
+[J6] Xing Hu, Feifei Niu*, Junkai Chen, Xin Zhou, <b>Junwei Zhang</b>, Junda He, Xin Xia, David Lo. "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks". ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted as a Full Paper
 
 [C10] Yongqian Chen, <b>Junwei Zhang</b>, Xing Hu*, Xin Xia. "Multi-Stage Generation of Rust Unit Tests with LLMs". 32nd Asia-Pacific Software Engineering Conference (APSEC 2025), Accepted as a Full Paper
 
