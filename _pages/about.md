@@ -29,7 +29,11 @@ Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisior: Dr. 
 
 # <i class="fa-solid fa-file"></i> Publications
 
+**2026**
+
 [C11] Weichang Liu, <b>Junwei Zhang*</b>, Xiaochun Zhu, Bo Zhou. "HieraTest: Hierarchical Dependency–Driven Framework with Multi-Strategy Repair for LLM-based Unit Test Generation". 33rd International Conference on Software Analysis, Evolution and Reengineering (SANER 2026), Accepted as a Full Paper 
+
+**2025**
 
 [J6] Xing Hu, Feifei Niu*, Junkai Chen, Xin Zhou, <b>Junwei Zhang</b>, Junda He, Xin Xia, David Lo. "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks" In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted as a Full Paper
 
@@ -43,15 +47,23 @@ Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisior: Dr. 
 
 [C7] Xuancheng Jin, Zhuang Liu, <b>Junwei Zhang</b>, Xing Hu*, Xin Xia. "TRACETS4J: A Traceable Unit Test Generation Dataset". 32nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025), Accepted as a Full Paper [[IEEE]](https://ieeexplore.ieee.org/document/10992478/)
 
+**2024**
+
 [C6] <b>Junwei Zhang</b>, Xing Hu*, Lingfeng Bao, Xin Xia, Shanping Li. "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization". International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Accepted as a Full Paper [[IEEE]](https://ieeexplore.ieee.org/document/10589870/)
 
 [C5] Zhongxin Liu, Zhijie Tang, <b>Junwei Zhang</b>, Xin Xia, Xiaohu Yang. "Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks". ICSE 2024: 151:1-151:13 [[PDF]](https://arxiv.org/abs/2402.00657) [[ACM]](https://dl.acm.org/doi/abs/10.1145/3597503.3639142)
 
 [C4] <b>Junwei Zhang</b>, Zhongxin Liu, Lingfeng Bao, Zhenchang Xing, Xing Hu, Xin Xia. "Inside Bug Report Templates: An Empirical Study on Bug Report Templates in Open-Source Software". Internetware 2024 [[ACM]](https://dl.acm.org/doi/10.1145/3671016.3671401)
 
+**2023**
+
 [J4] <b>Junwei Zhang</b>, Zhongxin Liu, Xing Hu, Xin Xia, Shanping Li. "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code". IEEE Transactions on Software Engineering (TSE), Accepted as a Full Paper [[IEEE]](https://ieeexplore.ieee.org/document/10153647)
 
+**2022**
+
 [J3] Zongwei Wang, Min Gao, Jundong Li, <b>Junwei Zhang</b>, Jiang Zhong. Gray-Box Shilling Attack: An Adversarial Learning Approach. ACM Trans. Intell. Syst. Technol. 13(5): 82:1-82:21 (2022) [[ACM]](https://dl.acm.org/doi/10.1145/3512352)
+
+**2021**
 
 [J2] <b>Junwei Zhang</b>, Min Gao, Junliang Yu, Linda Yang, Zongwei Wang, Qingyu Xiong. "Path-based reasoning over heterogeneous networks for recommendation via bidirectional modeling". Neurocomputing 461: 438-449 (2021) [[PDF]](https://arxiv.org/abs/2008.04185) [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0925231221010821)
 
@@ -60,6 +72,8 @@ Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisior: Dr. 
 [C3] <b>Junwei Zhang</b>, Min Gao, Junliang Yu, Lei Guo, Jundong Li, Hongzhi Yin. "Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation". CIKM 2021: 2557-2567 [PDF](https://arxiv.org/abs/2109.04200) [[ACM]](https://dl.acm.org/doi/10.1145/3459637.3482426)
 
 [C2] Meiling Chao, Min Gao, <b>Junwei Zhang</b>, Zongwei Wang, Quanwu Zhao, Yulin He. "PATR: A Novel Poisoning Attack Based on Triangle Relations Against Deep Learning-Based Recommender Systems". CollaborateCom (2) 2021: 435-450 [[Springer]](https://link.springer.com/chapter/10.1007/978-3-030-92638-0_26)
+
+**2019**
 
 [C1] 	<b>Junwei Zhang</b>, Min Gao, Junliang Yu, Xinyi Wang, Yuqi Song, Qingyu Xiong. "Nonlinear Transformation for Multiple Auxiliary Information in Music Recommendation". IJCNN 2019: 1-8 [[IEEE]](https://ieeexplore.ieee.org/document/8851992)
 
