@@ -14,17 +14,17 @@ I am currently a Research Fellow (a.k.a Assistant Research Professor) in [State 
 
 * *Zhejiang University, Hangzhou, Zhejiang, China*
 
-Ph.D. in Software Engineering  September 2021 - June 2025, Advisor: Professor Shanping Li, Associate Professor Lingfeng Bao, Assistant Professor Zhongxin Liu, Co-Advisor: Dr. Xin Xia and Associate Professor Xing Hu
+Ph.D. in Software Engineering, September 2021 - June 2025, Advisor: Professor Shanping Li, Associate Professor Lingfeng Bao, Assistant Professor Zhongxin Liu, Co-Advisor: Dr. Xin Xia and Associate Professor Xing Hu
 
 * *Chongqing University, Chongqing, China*
 
-Master in Software Engineering  September 2018 - June 2021, Advisor: Professor Min Gao
+Master in Software Engineering, September 2018 - June 2021, Advisor: Professor Min Gao
 
 * *Chongqing University, Chongqing, China*
 
-Bachelor in Software Engineering September 2014 - June 2018, Advisor: Professor Min Gao
+Bachelor in Software Engineering, September 2014 - June 2018, Advisor: Professor Min Gao
 
-Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisior: Dr. Xin Xia and Dr. Kui Liu
+Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisor: Dr. Xin Xia and Dr. Kui Liu
 
 
 # <i class="fa-solid fa-file"></i> Publications
