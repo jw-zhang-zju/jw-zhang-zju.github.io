@@ -29,11 +29,15 @@ Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisior: Dr. 
 
 # <i class="fa-solid fa-file"></i> Publications
 
-[C10] Yongqian Chen, <b>Junwei Zhang</b>, Xing Hu, Xin Xia. "Multi-Stage Generation of Rust Unit Tests with LLMs". 32nd Asia-Pacific Software Engineering Conference (APSEC 2025), Accepted as a Full Paper
+[C11] Weichang Liu, <b>Junwei Zhang*</b>, Xiaochun Zhu, Bo Zhou. "HieraTest: Hierarchical Dependency–Driven Framework with Multi-Strategy Repair for LLM-based Unit Test Generation". 33rd International Conference on Software Analysis, Evolution and Reengineering (SANER 2026), Accepted as a Full Paper 
 
-[J5] <b>Junwei Zhang</b>, Xing Hu, Shing-Chi Cheung, Xin Xia, Shanping Li. “Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback”. ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted as a Full Paper [[ACM]](https://dl.acm.org/doi/10.1145/3745765)
+[J6] Xing Hu, Feifei Niu*, Junkai Chen, Xin Zhou, <b>Junwei Zhang</b>, Junda He, Xin Xia, David Lo. "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks" In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted as a Full Paper
 
-[C9] <b>Junwei Zhang</b>, Xing Hu, Cuiyun Gao, Xin Xia, Shanping Li. “Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda”. SE 2030@FSE 2025. Accepted as a Full Paper 
+[C10] Yongqian Chen, <b>Junwei Zhang</b>, Xing Hu*, Xin Xia. "Multi-Stage Generation of Rust Unit Tests with LLMs". 32nd Asia-Pacific Software Engineering Conference (APSEC 2025), Accepted as a Full Paper
+
+[J5] <b>Junwei Zhang</b>, Xing Hu*, Shing-Chi Cheung, Xin Xia, Shanping Li. “Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback”. ACM Transactions on Software Engineering and Methodology (TOSEM). Accepted as a Full Paper [[ACM]](https://dl.acm.org/doi/10.1145/3745765)
+
+[C9] <b>Junwei Zhang</b>, Xing Hu*, Cuiyun Gao, Xin Xia, Shanping Li. “Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda”. SE 2030@FSE 2025. Accepted as a Full Paper 
 
 [C8] <b>Junwei Zhang</b>, Xing Hu*, Shan Gao, Xin Xia, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation". International Conference on the Foundations of Software Engineering (FSE 2025), Accepted as a Full Paper (ACM SIGSOFT Distinguished Paper Award 🏅) [[PDF]](https://arxiv.org/abs/2502.14212) [ACM](https://dl.acm.org/doi/10.1145/3715778)
 
