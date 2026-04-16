@@ -30,6 +30,7 @@ Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisor: Dr. X
 # <i class="fa-solid fa-file"></i> Publications
 
 **2026**
+
 [C12] <b>Junwei Zhang</b>, Xing Hu*, Xin Xia, David Lo, Shanping Li. “A Closer Look at the Malicious Pre-Trained Models on Hugging  Face”. In the 1st Journal Ahead Workshop (JAWs 2026), Accepted
 
 [J7] <b>Junwei Zhang</b>, Xing Hu*, Cuiyun Gao, Xin Xia, Shanping Li. “Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda”. In ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted
