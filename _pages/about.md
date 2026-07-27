@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Fellow (a.k.a Assistant Research Professor) in [State Key Laboratory of Blockchain and Data Security, Zhejiang University](https://bcds.zju.edu.cn/). My research interest includes software engineering, such as AI for SE, mining software repositories, etc. I am very fortunate to be advised by [Professor Shanping Li](https://person.zju.edu.cn/0087125), [Professor Xin Xia](https://xin-xia.github.io/),  [Associate Professor Lingfeng Bao](https://baolingfeng.github.io/), [Assistant Professor Zhongxin Liu](https://zhongxin-liu.github.io/), [Associate Professor Xing Hu](https://xing-hu.github.io/), Zhejiang University. I was advised by [Professor Min Gao](https://scholar.google.com/citations?user=K8oe7sMAAAAJ&hl=zh-CN) from Chongqing University. You can find my CV here: [Junwei's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+I am currently a Research Fellow (a.k.a Assistant Research Professor) in [State Key Laboratory of Blockchain and Data Security, Zhejiang University](https://bcds.zju.edu.cn/). My research interests include software engineering, such as AI for SE, mining software repositories, etc. I am very fortunate to be advised by [Professor Shanping Li](https://person.zju.edu.cn/0087125), [Professor Xin Xia](https://xin-xia.github.io/),  [Associate Professor Lingfeng Bao](https://baolingfeng.github.io/), [Assistant Professor Zhongxin Liu](https://zhongxin-liu.github.io/), [Associate Professor Xing Hu](https://xing-hu.github.io/), Zhejiang University. I was advised by [Professor Min Gao](https://scholar.google.com/citations?user=K8oe7sMAAAAJ&hl=zh-CN) from Chongqing University. You can find my CV here: [Junwei's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 
 # <i class="fa-solid fa-building-columns"></i> Education & Experiences
 
 * *Zhejiang University, Hangzhou, Zhejiang, China*
 
-Ph.D. in Software Engineering, September 2021 - June 2025, Advisor: Professor Shanping Li, Associate Professor Lingfeng Bao, Assistant Professor Zhongxin Liu, Co-Advisor: Dr. Xin Xia and Associate Professor Xing Hu
+Ph.D. in Software Engineering, September 2021 - June 2025, Advisors: Professor Shanping Li, Associate Professor Lingfeng Bao, Assistant Professor Zhongxin Liu, Co-Advisors: Dr. Xin Xia and Associate Professor Xing Hu
 
 * *Chongqing University, Chongqing, China*
 
@@ -24,12 +24,13 @@ Master in Software Engineering, September 2018 - June 2021, Advisor: Professor M
 
 Bachelor in Software Engineering, September 2014 - June 2018, Advisor: Professor Min Gao
 
-Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisor: Dr. Xin Xia and Dr. Kui Liu
+Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisors: Dr. Xin Xia and Dr. Kui Liu
 
 
 # <i class="fa-solid fa-file"></i> Publications
 
 **2026**
+[C12] Weichang Liu, <b>Junwei Zhang*</b>, Yuqing Niu, Bo Zhou, Shanping Li. “On the Evaluation of Large Language Models in Unit Test Evolution (Experience Paper)”. ISSTA 2026, Accepted
 
 [C12] <b>Junwei Zhang</b>, Xing Hu*, Xin Xia, David Lo, Shanping Li. “A Closer Look at the Malicious Pre-Trained Models on Hugging  Face”. In the 1st Journal Ahead Workshop (JAWs 2026), Accepted
 
@@ -84,7 +85,7 @@ Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisor: Dr. X
 
 # <i class="fa-solid fa-pen-to-square"></i> Professional Services
 
-Invited Reviewer for IEEE Transactions on Software Engineering (TSE), ACM Transactions on Software Engineering and Methodology (TOSEM), Empirical Software Engineering (ESE), Automated Software Engineering Journal (ASEJ), Journal of Software: Evolution and Process (JSME), Frontiers of Computer Science (FCS)
+Invited Reviewer for IEEE Transactions on Software Engineering (TSE), ACM Transactions on Software Engineering and Methodology (TOSEM), Empirical Software Engineering (ESE), Automated Software Engineering Journal (ASEJ), Journal of Software: Evolution and Process (JSME), Frontiers of Computer Science (FCS), Expert Systems With Applications (ESWA), Engineering Applications of Artificial Intelligence (EAAI)
 
 Invited Web Chair of [FORGE 2026](https://conf.researchr.org/home/forge-2026), Program Committee of [ICSME 2026 Research Papers Track](https://conf.researchr.org/committee/icsme-2026/icsme-2026-papers-program-committee)
 
