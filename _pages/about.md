@@ -19,7 +19,7 @@ His research interests lie in **software engineering**, particularly **AI for SE
 📄 [Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
 # 🔥 News
-- <span style="color:#FC4E2A">**2026.09:**</span> I was invited to serve on the Journal of Systems \& Software. Welcome to submit your papers.
+- <span style="color:#FC4E2A">**2026.09:**</span> I was invited to serve on the Journal of Systems & Software. Welcome to submit your papers.
 - <span style="color:#FC4E2A">**2026.09:**</span> Our paper, “Bug Whisperer: Unleashing LLMs to Craft Context-Aware Tests Guided by Path Constraints and Bug Clues,” has been accepted by **TOSEM**.
 - <span style="color:#FC4E2A">**2026.08:**</span> I was invited to serve on the Program Committee of **FSE 2027 (Industry Track)**. Welcome to submit your papers.
 - <span style="color:#FC4E2A">**2026.06:**</span> Our experience paper on evaluating large language models in unit test evolution was accepted at **ISSTA 2026**.
@@ -184,7 +184,7 @@ Notation: \* denotes a corresponding author. **Junwei Zhang** is highlighted in 
 - IEEE Transactions on Software Engineering (**TSE**)
 - ACM Transactions on Software Engineering and Methodology (**TOSEM**)
 - Empirical Software Engineering (**ESE**)
-- Journal of Systems \& Software (**JSS**)
+- Journal of Systems & Software (**JSS**)
 - Automated Software Engineering Journal (**ASEJ**)
 - Journal of Software: Evolution and Process
 - Frontiers of Computer Science (**FCS**)
