@@ -7,24 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Fellow (a.k.a Assistant Research Professor) in [State Key Laboratory of Blockchain and Data Security, Zhejiang University](https://bcds.zju.edu.cn/). My research interests include software engineering, such as AI for SE, mining software repositories, etc. I am very fortunate to be advised by [Professor Shanping Li](https://person.zju.edu.cn/0087125), [Professor Xin Xia](https://xin-xia.github.io/),  [Associate Professor Lingfeng Bao](https://baolingfeng.github.io/), [Assistant Professor Zhongxin Liu](https://zhongxin-liu.github.io/), [Associate Professor Xing Hu](https://xing-hu.github.io/), Zhejiang University. I was advised by [Professor Min Gao](https://scholar.google.com/citations?user=K8oe7sMAAAAJ&hl=zh-CN) from Chongqing University. You can find my CV here: [Junwei's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+<span class='anchor' id='about-me'></span>
 
+**Junwei Zhang** is currently a Research Fellow (also known as an Assistant Research Professor) at the [State Key Laboratory of Blockchain and Data Security, Zhejiang University](https://bcds.zju.edu.cn/).
 
-# <i class="fa-solid fa-building-columns"></i> Education & Experiences
+He received his Ph.D. in Software Engineering from Zhejiang University in 2025, under the supervision of [Prof. Shanping Li](https://person.zju.edu.cn/0087125), [Assoc. Prof. Lingfeng Bao](https://baolingfeng.github.io/), and [Asst. Prof. Zhongxin Liu](https://zhongxin-liu.github.io/), with co-supervision from [Prof. Xin Xia](https://xin-xia.github.io/) and [Assoc. Prof. Xing Hu](https://xing-hu.github.io/). Before that, he received his master's and bachelor's degrees in Software Engineering from Chongqing University in 2021 and 2018, respectively, advised by [Prof. Min Gao](https://scholar.google.com/citations?user=K8oe7sMAAAAJ&hl=zh-CN).
 
-* *Zhejiang University, Hangzhou, Zhejiang, China*
+His research interests lie in **software engineering**, particularly **AI for SE**, **AI for software testing**, and **mining software repositories**, with work on automated unit test generation and evolution, vulnerability analysis, and software engineering benchmarks.
 
-Ph.D. in Software Engineering, September 2021 - June 2025, Advisors: Professor Shanping Li, Associate Professor Lingfeng Bao, Assistant Professor Zhongxin Liu, Co-Advisors: Dr. Xin Xia and Associate Professor Xing Hu
+📄 [Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
-* *Chongqing University, Chongqing, China*
+# 🔥 News
+- <span style="color:#FC4E2A">**2026.09:**</span> I was invited to serve on the Journal of Systems \& Software. Welcome to submit your papers.
+- <span style="color:#FC4E2A">**2026.09:**</span> Our paper, “Bug Whisperer: Unleashing LLMs to Craft Context-Aware Tests Guided by Path Constraints and Bug Clues,” has been accepted by **TOSEM**.
+- <span style="color:#FC4E2A">**2026.08:**</span> I was invited to serve on the Program Committee of **FSE 2027 (Industry Track)**. Welcome to submit your papers.
+- <span style="color:#FC4E2A">**2026.06:**</span> Our experience paper on evaluating large language models in unit test evolution was accepted at **ISSTA 2026**.
 
-Master in Software Engineering, September 2018 - June 2021, Advisor: Professor Min Gao
+<details class="news-more" markdown="1">
+<summary>Show earlier news</summary>
 
-* *Chongqing University, Chongqing, China*
+- <span style="color:#FC4E2A">**2026:**</span> Our research agenda on LLM-based unit test generation was accepted by **TOSEM**, and **HieraTest** was accepted at **SANER 2026**.
+- <span style="color:#FC4E2A">**2026:**</span> I was invited to serve as Web Chair of [FORGE 2026](https://conf.researchr.org/home/forge-2026) and on the Program Committee of the [ICSME 2026 Research Papers Track](https://conf.researchr.org/committee/icsme-2026/icsme-2026-papers-program-committee).
+- <span style="color:#FC4E2A">**2025:**</span> Our paper, “Less is More: On the Importance of Data Quality for Unit Test Generation,” received an **ACM SIGSOFT Distinguished Paper Award** at **FSE 2025**. 🏅
 
-Bachelor in Software Engineering, September 2014 - June 2018, Advisor: Professor Min Gao
-
-Research Intern, Huawei, Hangzhou, China, January 2022 - Present, Advisors: Dr. Xin Xia and Dr. Kui Liu
+</details>
 
 
 # <i class="fa-solid fa-file"></i> Publications
