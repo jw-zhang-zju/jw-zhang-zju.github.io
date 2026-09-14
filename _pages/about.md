@@ -163,7 +163,7 @@ Notation: \* denotes a corresponding author. **Junwei Zhang** is highlighted in 
 
 - **Research Fellow (Assistant Research Professor)**, State Key Laboratory of Blockchain and Data Security, Zhejiang University.
   - Current position.
-- *2022.01 – Present*, **Research Intern**, Huawei, Hangzhou, China.
+- *2022.01 – 2025.01*, **Research Intern**, Huawei, Hangzhou, China.
   - Advisors: Dr. Xin Xia and Dr. Kui Liu.
 
 # 📚 Academic Services
