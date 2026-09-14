@@ -41,3 +41,71 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* List spacing */
+.page__content ul {
+  padding-inline-start: 2em;
+  margin-block-start: 0.5em;
+}
+
+/* Collapsible news */
+.news-more {
+  margin-top: 0.5em;
+}
+
+.news-more > summary {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.25em 0.75em;
+  font-size: 0.9em;
+  color: var(--global-link-color);
+  border: 1px solid var(--global-border-color);
+  border-radius: 4px;
+  user-select: none;
+  list-style: none;
+}
+
+.news-more > summary::-webkit-details-marker {
+  display: none;
+}
+
+.news-more > summary::marker {
+  content: "";
+}
+
+.news-more > summary:hover {
+  background: var(--global-border-color);
+}
+
+.news-more[open] > summary {
+  margin-bottom: 0.5em;
+}
+
+/* Publication badges */
+.page__content p img[src*="img.shields.io"],
+.page__content li img[src*="img.shields.io"] {
+  max-height: 1.4em;
+  width: auto;
+  vertical-align: middle;
+}
+
+/* Anchor positions below the fixed navigation */
+.page__content h1,
+.page__content .anchor {
+  scroll-margin-top: 90px;
+}
+
+/* Narrow screens */
+@media (max-width: 600px) {
+  .page__content ul {
+    padding-inline-start: 1.1em;
+  }
+
+  .page__content li ul {
+    padding-inline-start: 1em;
+  }
+
+  .page__content li li {
+    margin-bottom: 0.25em;
+  }
+}
